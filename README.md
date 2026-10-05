@@ -43,11 +43,15 @@ APK 大小为 **411,295 字节（约 0.41 MB）**，比此前约 7.71 MB 的调�
 
 ## 反馈
 
-请在[问题反馈](https://github.com/cheng343/oneplus-calculator-easter-egg-feedback/issues)提供计算器版本、系统版本、框架版本，以及复现步骤。需要排查播放问题时，可附 `OnePlusEasterEgg` 标签的框架日志和录屏；模块日志不会记录你的计算表达式。
+请在[问题反馈](https://github.com/cheng343/oneplus-calculator-easter-egg/issues)提供计算器版本、系统版本、框架版本，以及复现步骤。需要排查播放问题时，可附 `OnePlusEasterEgg` 标签的框架日志和录屏；模块日志不会记录你的计算表达式。
 
 ## 第三方组件
 
-动画渲染使用 [Lottie Android 6.7.1](https://github.com/airbnb/lottie-android)；模块 API 使用 [libxposed API](https://central.sonatype.com/artifact/io.github.libxposed/api/102.0.0)。第三方许可见发布包附带的说明。
+动画渲染使用 [Lottie Android 6.7.1](https://github.com/airbnb/lottie-android)；模块 API 使用 [libxposed API](https://central.sonatype.com/artifact/io.github.libxposed/api/102.0.0)。第三方许可见[仓库中的说明](https://github.com/Xposed-Modules-Repo/io.github.cheng343.calculator.easteregg/blob/main/THIRD_PARTY_NOTICES.txt)。
+
+## 源码
+
+完整 Android 工程和 GitHub Actions 已公开：[模块源码](https://github.com/cheng343/oneplus-calculator-easter-egg)。
 
 ---
 
